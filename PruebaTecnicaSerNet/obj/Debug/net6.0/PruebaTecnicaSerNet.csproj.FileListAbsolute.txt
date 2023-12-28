@@ -1,0 +1,14 @@
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\bin\Debug\net6.0\PruebaTecnicaSerNet.exe
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\bin\Debug\net6.0\PruebaTecnicaSerNet.deps.json
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\bin\Debug\net6.0\PruebaTecnicaSerNet.runtimeconfig.json
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\bin\Debug\net6.0\PruebaTecnicaSerNet.dll
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\bin\Debug\net6.0\PruebaTecnicaSerNet.pdb
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\PruebaTecnicaSerNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\PruebaTecnicaSerNet.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\PruebaTecnicaSerNet.AssemblyInfo.cs
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\PruebaTecnicaSerNet.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\PruebaTecnicaSerNet.dll
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\refint\PruebaTecnicaSerNet.dll
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\PruebaTecnicaSerNet.pdb
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\PruebaTecnicaSerNet.genruntimeconfig.cache
+C:\Proyectos\PruebaTecnicaSerNet\PruebaTecnicaSerNet\obj\Debug\net6.0\ref\PruebaTecnicaSerNet.dll
